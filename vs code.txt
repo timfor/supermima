@@ -1,0 +1,26 @@
+https://docs.microsoft.com/ru-ru/dotnet/core/tutorials/with-visual-studio-code
+https://docs.microsoft.com/ru-ru/dotnet/core/tutorials/debugging-with-visual-studio-code
+https://docs.microsoft.com/ru-ru/dotnet/core/tutorials/publishing-with-visual-studio-code
+https://docs.microsoft.com/ru-ru/dotnet/core/tutorials/library-with-visual-studio-code
+
+
+
+
+dotnet publish --configuration Release (Выпуск программы в exe)
+
+
+
+
+
+
+В Windows введите .\HelloWorld.exe и нажмите клавишу ВВОД.
+
+В Linux введите ./HelloWorld и нажмите клавишу ВВОД.
+
+В ответ на запрос введите имя и нажмите любую клавишу, чтобы выйти.
+
+На любой платформе запустите приложение с помощью команды dotnet:
+
+Введите dotnet HelloWorld.dll и нажмите клавишу ВВОД.
+
+В ответ на запрос введите имя и нажмите любую клавишу, чтобы выйти.

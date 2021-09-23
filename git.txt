@@ -1,0 +1,40 @@
+connecting git
+
+git clone 'htpps'
+
+git push origin - отправить в интернет
+
+
+git status - проверка статусы
+
+git init - создать разширение .git в проекте, чтобы отслежить версии и чтобы git status работало.
+
+git branch
+
+git branch 'name'
+
+git checkout 'name' - перейти к ветке
+
+git checkout -b name ( create and go )
+
+git merge 'name' (to join name + master)
+
+git branch -d 'name' ( delete)
+
+git branhc -D 'name'
+
+git push --all ( to load to github all branches )
+
+git log - версии проекта
+
+git checkout hash - на старую версию ( нужен hash)
+
+git checkout master - на самую актуальную версию свитч
+
+git commit --amend ( добавление в этот же коммит без создания нового )
+wq!
+
+git reset --hard HEAD~2 ( 2 - коммита которых хотим удалить и вернуться назад )
+
+git reset --soft HEAD~3 ( 3 - кол во комитов для удаления с самого первого ) 
+
