@@ -1,0 +1,11 @@
+connecting git
+
+git clone 'htpps'
+
+git push origin - отправить в интернет
+
+
+git status - проверка статусы
+
+git init - создать разширение .git в проекте, чтобы отслежить версии и чтобы git status работало.
+
