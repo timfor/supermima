@@ -9,3 +9,16 @@ git status - проверка статусы
 
 git init - создать разширение .git в проекте, чтобы отслежить версии и чтобы git status работало.
 
+git branch
+
+git branch 'name'
+
+git checkout 'name' - перейти к ветке
+
+git checkout -b name ( create and go )
+
+git merge 'name' (to join name + master)
+
+git branch -d 'name' ( delete)
+
+git branhc -D 'name'
